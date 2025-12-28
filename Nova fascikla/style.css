@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f2f2f2;
+  color: #111;
+}
+
+
+.header {
+  background: #222;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.navbar {
+  background: #444;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 12px;
+  margin: 2px;
+  background: #666;
+  border-radius: 6px;
+}
+
+.navbar a:hover {
+  background: #888;
+}
+
+
+.prva,
+.druga {
+  background: white;
+  width: 90%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+
+input {
+  margin: 6px 0;
+  padding: 6px;
+}
+
+
+
+
+.predaj {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background: #222;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.predaj:hover {
+  background: #000;
+}
+
+
+.podnozje {
+  margin-top: 30px;
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 12px;
+}
+
+.slike
+{
+    text-align: center;
+    
+}
+.slr
+{
+    width: 500px;
+    margin-top: 30px;
+}
+
+.omeni
+{
+    margin: 50px;
+    text-align: center;
+}
+.center-img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.lista{
+
+align-items: center;
+  }
